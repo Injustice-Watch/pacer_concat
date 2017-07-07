@@ -1,0 +1,4 @@
+cs_caseid|cs_case_number|cs_short_title|cs_date_filed|cs_date_term|cs_date_reopen|cs_type|cs_case_restriction|lead_caseid|lead_case_number|cs_short_title|lead_date_filed|lead_date_term|lead_date_reopen|office_trans|pre_judge_name|ref_judge_name|cs_sort_case_numb|cs_def_num|cs_term_digit|party|party_start_date|party_end_date|party_def_num|loc_date_start|loc_date_end
+133754|1:14-cr-00035-SNLJ                      |USA v. Rush|05/15/2014|02/24/2015||cr||133753|1:14-cr-00035-SNLJ|USA v. Rush|05/15/2014|02/24/2015||Cape Girardeau|Stephen N. Limbaugh, Jr.||1:2014-cr-00035|1|5|John Lyn Rush|05/15/2014|02/24/2015|1||
+148422|1:16-cr-00094-SNLJ                      |USA v. Wright|08/18/2016|||cr||148421|1:16-cr-00094-SNLJ|USA v. Wright|08/18/2016|||Cape Girardeau|Stephen N. Limbaugh, Jr.||1:2016-cr-00094|1|4|Justin Antonio Wright|08/18/2016||1||
+|||||||||||||||||||||||||
